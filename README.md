@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Bhavin-kareliya
-- 👀 I’m interested in to play with code⚽
-- 🌱 I’m currently learning advanced web development like professional 👨‍💻
-- 💞️ I’m looking to collaborate on learning competitive programming 👨‍🎓
 - 📫 mail_id : bhavin.kareliya2017@gmail.com
