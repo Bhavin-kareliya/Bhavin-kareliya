@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">I am a Student at Marwadi University pursuing B.E. in CSE. I like to Code, Development, Innovate and Experiment. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bhavin-kareliya&label=Profile%20views&color=0e75b6&style=plastic" alt="Bhavin-kareliya" /> </p>
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavin-kareliya&theme=algolia" alt="candida18"  /></p>
