@@ -59,18 +59,16 @@
     <a href="https://angular.io/"><img alt="ANGULAR" src="https://img.shields.io/badge/ANGULAR-%23DD0031.svg?logo=angular&logoColor=white"></a>
   &emsp;
     <a href="https://angularjs.org/"><img alt="ANGULAR.JS" src="https://img.shields.io/badge/ANGULAR.JS-%23E23237.svg?logo=angularjs&logoColor=white"></a>
-  &emsp;
-    <a href="https://angular.io/"><img alt="ANGULAR" src="https://img.shields.io/badge/ANGULAR-%23DD0031.svg?logo=angular&logoColor=white"></a>
    &emsp;
   	<a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
+  &emsp;
+    <a href="https://jwt.io/"><img alt="JWT" src ="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
   &emsp;
     <a href="https://www.chartjs.org/"><img alt="CHART.JS" src="https://img.shields.io/badge/CHART.JS-F5788D.svg?logo=chart.js&logoColor=white"></a>
   &emsp;
     <a href="https://flutter.dev/"><img alt="FLUTTER" src="https://img.shields.io/badge/FLUTTER-%2302569B.svg?logo=Flutter&logoColor=white"></a>
   &emsp;
     <a href="https://jquery.com/"><img alt="JQUERY" src ="https://img.shields.io/badge/JQUERY-%230769AD.svg?logo=jquery&logoColor=white"></a>
-  &emsp;
-    <a href="https://jwt.io/"><img alt="JWT" src ="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
