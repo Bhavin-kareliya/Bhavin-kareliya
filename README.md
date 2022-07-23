@@ -26,22 +26,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://dart.dev/" target="_blank"> 
-     <img alt="DART" src="https://img.shields.io/badge/DART-%230175C2.svg?logo=dart&logoColor=white">
-   </a>
-  &emsp;
   <a href="https://www.r-project.org/" target="_blank"> 
      <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">
    </a>
   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://github.com/ethereum/solidity" target="_blank"> 
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white"/>
-  </a>
-  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
@@ -57,16 +45,10 @@
     <a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.NET&logoColor=white"></a>
   &emsp;
     <a href="https://angular.io/"><img alt="ANGULAR" src="https://img.shields.io/badge/ANGULAR-%23DD0031.svg?logo=angular&logoColor=white"></a>
-  &emsp;
-    <a href="https://angularjs.org/"><img alt="ANGULAR.JS" src="https://img.shields.io/badge/ANGULAR.JS-%23E23237.svg?logo=angularjs&logoColor=white"></a>
    &emsp;
   	<a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
   &emsp;
     <a href="https://jwt.io/"><img alt="JWT" src ="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
-  &emsp;
-    <a href="https://www.chartjs.org/"><img alt="CHART.JS" src="https://img.shields.io/badge/CHART.JS-F5788D.svg?logo=chart.js&logoColor=white"></a>
-  &emsp;
-    <a href="https://flutter.dev/"><img alt="FLUTTER" src="https://img.shields.io/badge/FLUTTER-%2302569B.svg?logo=Flutter&logoColor=white"></a>
   &emsp;
     <a href="https://jquery.com/"><img alt="JQUERY" src ="https://img.shields.io/badge/JQUERY-%230769AD.svg?logo=jquery&logoColor=white"></a>
 </p>
@@ -108,39 +90,11 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bhavin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bhavin-kareliya&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavin-kareliya&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Bhavin" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Bhavin-kareliya"><img alt="Bhavin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bhavin-kareliya&custom_title=Bhavin%20Kareliya's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:bhavin.kareliya2017@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Bhavin-kareliya" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/bhavin-kareliya" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/bhavin__kareliya" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <hr/>
