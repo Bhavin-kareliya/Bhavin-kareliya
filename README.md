@@ -5,7 +5,6 @@
 </p>
 <hr/>
 <h4 align="center">I am a Student at Marwadi University pursuing B.E. in CSE. I like to Code, Development, Innovate and Experiment. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
 
 
 ## 🔥 Streak Stats
@@ -88,7 +87,6 @@
   &emsp;
 </p>
 
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
